@@ -1,6 +1,6 @@
 ## Measuring Attitude Towards Mental Health In The Workplace
 
-An Exploratory Comparison of Machine Learning Models measuring Attitude towards Mental Health in the Workplace
+#An Exploratory Comparison of Machine Learning Models measuring Attitude towards Mental Health in the Workplace
 
 
 Working in the technology industry could be very challenging because the industry is
