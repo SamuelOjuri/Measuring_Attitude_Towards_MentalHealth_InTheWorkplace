@@ -1,4 +1,4 @@
-## Measuring_Attitude_Towards_MentalHealth_InTheWorkplace
+## Measuring Attitude Towards Mental Health In The Workplace
 
 An Exploratory Comparison of Machine Learning Models measuring Attitude towards Mental Health in the Workplace
 
